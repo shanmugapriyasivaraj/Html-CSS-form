@@ -13,7 +13,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(to right, #44c94f, #0a3474);
+  background: linear-gradient(to right, #af4e9a, #c9d651d8);
 }
 form {
   width: 25rem;
